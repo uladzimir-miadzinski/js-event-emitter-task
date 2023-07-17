@@ -1,5 +1,7 @@
 // EventEmitter
-class EventEmitter {}
+class EventEmitter {
+  // your code goes here...
+}
 
 const cb1 = () => console.log('cb1');
 const cb2 = () => console.log('cb2');
