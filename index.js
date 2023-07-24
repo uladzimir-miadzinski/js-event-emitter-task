@@ -7,7 +7,6 @@ const cb1 = () => console.log('cb1');
 const cb2 = () => console.log('cb2');
 const cb3 = () => console.log('cb3');
 
-
 const emitter = new EventEmitter();
 
 emitter
